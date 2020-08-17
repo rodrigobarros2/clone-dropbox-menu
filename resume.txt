@@ -1,0 +1,4 @@
+Projeto de estudo ideal para trabalhar com manipulação de dom com Js. A manupulação lateral do site é bem interessante e deve ser estudada e analizada para projetos futuros
+Analize do modo de utilização das variáveis e props no projeto na pasta Section
+Utilização do javascript no menu lateral recebendo positions vh do DOM
+Consumindo um array na pasta data
